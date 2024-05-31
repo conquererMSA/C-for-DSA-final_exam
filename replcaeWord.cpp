@@ -11,6 +11,7 @@ int main(){
         s.replace(s.find(word), len, "#");
       }
     cout<<s<<endl;
+    //cout<<" XXX ";
     }
     return 0;
     }
