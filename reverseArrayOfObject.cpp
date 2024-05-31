@@ -21,6 +21,6 @@ int main(){
     for(int i=0; i<arraySize; i++){
         cout<<array[i].name<<" "<<array[i].clss<<" "<<array[i].section<<" "<<array[i].id<<endl;
     }
-
+// cout<<"Array of Objects";
     return 0;
 }
